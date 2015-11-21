@@ -1,34 +1,34 @@
-# Kabisa Ember.js workshop
+# Treinamento Ember.js da Kabisa
 
-This is a sample application used during a Kabisa workshop to demonstrate Ember.js.
+Esta aplicação/aplicativo é usado para demonstrar o Ember.js durante um treinamento da Kabisa.
 
-Please consult the [wiki](https://github.com/bazzel/ember2-workshop/wiki) for further instructions.
+Por favor veja o [wiki](https://github.com/ruisalgado/ember2-workshop-pt/wiki) para mais informações.
 
 ## Demo
-Please take a look at our live [demo](https://kabisa-ember2-workshop.herokuapp.com/products).
+
+Veja a nossa [demo](https://kabisa-ember2-workshop.herokuapp.com/products).
 
 ## Prerequisites
 
-You will need the following things properly installed on your computer.
+Precisará do seguinte _software_ a correr no seu computador:
 
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) (with NPM) and [Bower](http://bower.io/)
 
-## Installation
+## Instalação
 
-* `git clone` this
-repository
-* `cd ember-workshop/frontend`
+* `git clone` este repositório
+* `cd ember-workshop-pt/frontend`
 * `npm install`
 * `bower install`
 
-## Running
+## Arrancar
 
-* `cd ember-workshop/frontend`
+* `cd ember-workshop-pt/frontend`
 * `ember s --proxy https://ember2-workshop-backend.herokuapp.com`
-* Visit your app at http://localhost:4200.
+* Visite a sua aplicação em [http://localhost:4200](http://localhost:4200).
 
-## Further Reading / Useful Links
+## Links úteis
 
-* ember: http://emberjs.com/
-* ember-cli: http://www.ember-cli.com/
+* [ember](http://emberjs.com/)
+* [ember-cli](http://www.ember-cli.com/)
